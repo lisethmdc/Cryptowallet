@@ -1,0 +1,13 @@
+@import '../../styles/mixins';
+
+.homeContainer {
+    @include flex-center;
+    margin-top: 60px;
+ }
+ 
+ .img-home {
+     height: 200px;
+     position: fixed;
+     bottom: 0px;
+     left: 10px;
+ }
