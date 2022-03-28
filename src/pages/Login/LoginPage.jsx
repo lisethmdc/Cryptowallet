@@ -1,5 +1,5 @@
 import React from "react";
-import LoginReducer from "../../components/Login/Login";
+import LoginReducer from "../../components/Login/LoginReducer";
 import "./styles.scss";
 import imageHome from "../../assets/images/Standing.png";
 
