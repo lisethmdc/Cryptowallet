@@ -29,7 +29,6 @@ export default function ModeContext({ children }) {
                     {children}
                 </ThemeUpdateContext.Provider>
             </ThemeContext.Provider>
-
         </div>
     )
 }
